@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Orange's Blog
     subtitle:
-      - The world’s fastest framework for building websites
+      - 热爱生活^_^
     titleColor: 
     titleShadow: true
     titleFontSize: 44

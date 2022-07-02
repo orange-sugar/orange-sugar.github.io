@@ -11,8 +11,8 @@
     <description>Recent content in Post section on Orange&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>htlisongtao@163.com (Orange)</managingEditor>
+    <webMaster>htlisongtao@163.com (Orange)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>My First Post</title>
         <link>https://orange-sugar.github.io/zh/posts/myfirstpost/</link>
         <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>htlisongtao@163.com (Orange)</author>
         <atom:modified>Tue, 26 Mar 2019 08:47:11 +0100</atom:modified>
         <guid>https://orange-sugar.github.io/zh/posts/myfirstpost/</guid>
         <description>Your markdown here.</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Orange</dc:creator>
         
         
         

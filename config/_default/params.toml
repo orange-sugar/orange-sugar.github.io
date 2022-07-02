@@ -47,14 +47,14 @@ talksPaginate = 8 # items per page
 talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Orange"
+email = "htlisongtao@163.com"
+whoami = "C++ Developer"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = false # we use this option highest priority
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://github.com/zzossig/hugo-theme-zzo"
+location = "Beijing, China"
+organization = ""
+link = "https://github.com/orange-sugar"
 
 # sidebar
 enableBio = true # in home page sidebar
@@ -141,9 +141,9 @@ commento = false
 [socialOptions] # if set, social icons will show up.
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  # facebook = "http://example.org/"
+  # twitter = "http://example.org/"
+  github = "https://github.com/orange-sugar"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
