@@ -1,0 +1,12 @@
+[zh]
+  title = "Orange's Blog"
+  languageName = "Chinese"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/zh"
+[en]
+  title = "Orange's Blog"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
