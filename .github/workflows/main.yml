@@ -25,12 +25,12 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           # ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          # personal_token: ${{ secrets.ACCESS_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # external_repository: orange-sugar/orange-sugar.github.io
+          personal_token: ${{ secrets.TOKEN }}
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: orange-sugar/orange-sugar.github.io
           publish_dir: ./public
           #   keep_files: true
-          # user_name: orange-sugar 
-          # user_email: 1565188353@qq.com
+          user_name: orange-sugar 
+          user_email: 1565188353@qq.com
           publish_branch: main
         #   cname: example.com
